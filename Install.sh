@@ -1,31 +1,31 @@
 #!/usr/bin/bash
 clear
-figlet -c "Team Venom"
+figlet -c "Tool--Vip"
 echo "Loading.."
 echo "████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 20%	"
 sleep 1
 clear
-figlet -c "Team Venom"
+figlet -c "Tool--vip"
 echo "Loading..."
 echo "████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 40%	"
 sleep 1
 clear
-figlet -c "Team Venom"
+figlet -c "Tool--Vip"
 echo "Loading..."
 echo "████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 60%	"
 sleep 1
 clear
-figlet -c "Team Venom"
+figlet -c "Tool--Vip"
 echo "Loading...."
 echo "████████████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░ 80%	"
 sleep 1
 clear
-figlet -c "Team Venom"
+figlet -c "Tool--Vip"
 echo "Loading....."
 echo "████████████████████████████████████████████████████████████████████████████████ 100%     "
 sleep 1
 clear
-figlet -c "Team Venom"
+figlet -c "Tool--Vip"
 echo -e "\e[1;31m <--------------------------Tool Categories---------------------------------> \e[0m"
 echo -e "\e[1;33m 1) Information Gathering \e[0m"
 echo -e "\e[1;33m 2) Vulnerabilty Analysis \e[0m"
